@@ -1,0 +1,12 @@
+{
+  "title": "Athlete ID India — One Athlete. One Identity. Unlimited Opportunities.",
+  "description": "India's verified digital sports identity platform connecting athletes with coaches, academies, scouts, universities, and sponsors.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
